@@ -1,0 +1,88 @@
+const foodData = {
+  1: {
+    name: 'Masala Dosa',
+    description: 'A crispy dosa filled with spicy mashed potatoes.',
+    image: '/images/dosa.webp',
+    restaurant: 'The Living Room Coimbatore',
+    price: 60,
+  },
+  2: {
+    name: 'Biryani',
+    description: 'Aromatic basmati rice cooked with meat and spices.',
+    image: '/images/briyani.jpeg',
+    restaurant: 'KOVE',
+    price: 150,
+  },
+  3: {
+    name: 'Parotta',
+    description: 'Flaky layered flatbread served with curry.',
+    image: '/images/poratta.jpg',
+    restaurant: 'Heights Rooftop Restaurant',
+    price: 40,
+  },
+  4: {
+    name: 'Idiyappam',
+    description: 'Steamed rice noodle nests served with curry.',
+    image: '/images/idiyappam.jpeg',
+    restaurant: 'Heights Rooftop Restaurant',
+    price: 50,
+  },
+  5: {
+    name: 'Meals',
+    description: 'South Indian banana leaf meal with all sides.',
+    image: '/images/meals.jpg',
+    restaurant: 'The Waterfall Restaurant',
+    price: 120,
+  },
+  6: {
+    name: 'Burger',
+    description: 'A perfect burger',
+    image: '/images/burger.jpg',
+    restaurant: 'KOVE',
+    price: 90,
+  },
+  7: {
+    name: 'Pasta',
+    description: 'A perfect pasta',
+    image: '/images/pasta.jpg',
+    restaurant: 'KOVE',
+    price: 130,
+  },
+  8: {
+    name: 'Rice',
+    description: 'A rice with some dish is always a perfect meal',
+    image: '/images/Rice.jpg',
+    restaurant: 'Thamboora Restaurant Trichy',
+    price: 100,
+  },
+  9: {
+    name: 'Paneer Butter Masala',
+    description: 'Creamy tomato-based curry with cubes of paneer.',
+    image: '/images/panner.webp',
+    restaurant: 'Thamboora Restaurant Trichy',
+    price: 140,
+  },
+  10: {
+    name: 'Samosa',
+    description: 'Crispy pastry filled with spicy potatoes and peas.',
+    image: '/images/samosa.jpg',
+    restaurant: 'The Waterfall Restaurant',
+    price: 30,
+  },
+  11: {
+    name: 'Chole Bhature',
+    description: 'Spiced chickpeas served with deep-fried bread.',
+    image: '/images/chole.jpg',
+    restaurant: 'The Living Room Coimbatore',
+    price: 110,
+  },
+  12: {
+    name: 'Pani Puri',
+    description: 'Crispy puris filled with spicy, tangy flavored water.',
+    image: '/images/panipuri.jpg',
+    restaurant: 'The Living Room Coimbatore',
+    price: 40,
+  },
+};
+
+export default foodData;
