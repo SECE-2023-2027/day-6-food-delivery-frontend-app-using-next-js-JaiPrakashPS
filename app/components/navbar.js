@@ -11,7 +11,7 @@ export default function Navbar() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between h-16 items-center">
           <Link href="/" className="flex items-center text-2xl font-bold text-green-600">
-            <span className="text-3xl mr-2">🍔</span> Foodie
+            <span className="text-3xl mr-2">🍔</span> Namma Kadai
           </Link>
 
           <div className="hidden md:flex space-x-8 text-gray-700 font-medium">
